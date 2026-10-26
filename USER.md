@@ -3,8 +3,8 @@
 
 ## The basics
 - **Name:** AJ Thomas
-- **Time zone:** [Your time zone]
-- **Best hours for deep work:** [e.g., early mornings]
+- **Time zone:** PST
+- **Best hours for deep work:** early mornings
 - **Family time I protect:** [e.g., evenings, school pickups, weekends]
 
 ## What I do
